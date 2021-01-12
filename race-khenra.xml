@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="https://dnd.wizards.com/articles/features/plane-shift-amonkhet">Wizards of the Coast | sens1tiv</author>
 		<update version="0.1.0">
-			<file name="race-khenra.xml" url="https://" />
+			<file name="race-khenra.xml" url="https://raw.githubusercontent.com/sens1tiv/sens1tivs-DND-Homebrew/main/race-khenra.xml" />
 		</update>
 	</info>
 	
