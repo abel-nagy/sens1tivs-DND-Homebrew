@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Languages</name>
+		<update version="0.0.1">
+			<file name="amonkhet-languages.xml" url="https://github.com/sens1tiv/sens1tivs-DND-Homebrew/blob/main/amonkhet-languages.xml" />
+		</update>
+	</info>
+
+	<!-- exotic -->
+	<element name="Khenra" type="Language" source="Plane Shift: Amonkhet" id="ID_LANGUAGE_KHENRA">
+		<supports>Exotic</supports>
+		<description>
+			<p>Typically spoken by Khenra.</p>
+		</description>
+		<setters>
+			<set name="exotic">true</set>
+			<set name="speakers">Khenra</set>
+			<set name="script">Hieroglyph</set>
+		</setters>
+	</element>
+</elements>
